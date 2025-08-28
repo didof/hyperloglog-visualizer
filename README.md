@@ -17,9 +17,9 @@ The scripts will generate the following visual comparisons:
 
 | Linear Insertion | Chaotic Insertion |
 | :---: | :---: |
-| ![Linear Accuracy Chart](https-placeholder-for-linear-accuracy-chart.png) | ![Chaotic Accuracy Chart](https-placeholder-for-chaotic-accuracy-chart.png) |
+| ![Linear Accuracy Chart](linear_accuracy_chart.png) | ![Chaotic Accuracy Chart](chaotic_accuracy_chart.png) |
 | *Accuracy remains high with sequential data.* | *Accuracy holds even with random data bursts.* |
-| ![Linear Error Chart](https-placeholder-for-linear-error-chart.png) | ![Chaotic Error Chart](https-placeholder-for-chaotic-error-chart.png) |
+| ![Linear Error Chart](linear_error_chart.png) | ![Chaotic Error Chart](chaotic_error_chart.png) |
 | *The error quickly stabilizes below the theoretical limit.* | *The error is more volatile but stays within statistical bounds.* |
 
 ## Prerequisites
